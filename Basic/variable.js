@@ -21,6 +21,28 @@ console.table([aabid,email,city]); //it will show us in the table.
 //  symbol // unique value for the javascript.
 // undefined // not yet defined 
 // null //standalone value.
+let value=5;
+let negvalue= -value;
+console.log(negvalue); //negative value
+
+let number=67;
+let newnumber=String(number);
+console.log(typeof newnumber);
+
+let number1="Muzamil";
+let newnumber1=Number(number1);
+console.log(typeof newnumber1);
+console.log(newnumber1);
+
+let mudi;
+console.log(mudi);
+function mudasir1 () {
+    console.log("Welcome to Mudasir ");
+}
+console.log(typeof mudasir1());
+
+
+
 
 
 
