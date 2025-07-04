@@ -24,7 +24,14 @@ const min=10;
 const max=20;
 console.log(Math.round((Math.random(min-max)*10)+min));
 
-console.log();
+console.log(Math.abs(-5));
+console.log(Math.pow(2,3));
+
+console.log(Math.max(1,3,4,5));
+console.log(Math.min(1,3,4,5));
+
+
+
 
 
 
